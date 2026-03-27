@@ -22,7 +22,7 @@ const experiences = [
     company_name: "Independent",
     icon: <Briefcase />,
     iconBg: "#121212",
-    date: "2023 - Present",
+    date: "",
     points: [
       "Collaborated with peers to design, build, and maintain functional software platforms.",
       "Developed web solutions optimizing frontend design aesthetics with robust functional backends.",
@@ -34,7 +34,7 @@ const experiences = [
     company_name: "University",
     icon: <GraduationCap />,
     iconBg: "#121212",
-    date: "2020 - 2024",
+    date: "",
     points: [
       "Grasped core concepts of data structures, algorithms, and software engineering principles.",
       "Contributed to multiple academic tech projects and hackathons.",
