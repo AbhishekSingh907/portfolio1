@@ -65,7 +65,7 @@ const About = () => {
                   </div>
                   <div>
                     <h4 className="font-bold text-white uppercase tracking-wider text-sm">Degree</h4>
-                    <p className="text-sm text-gray-400 font-medium">B.Tech CSE (CGPA: 7.0)</p>
+                    <p className="text-sm text-gray-400 font-medium">B.Tech CSE (CGPA: 7.5)</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4 p-4 rounded-xl hover:bg-white/5 hover:-translate-y-2 hover:shadow-[0_10px_20px_rgba(168,85,247,0.15)] transition-all duration-300 border border-transparent hover:border-brand-primary/20 cursor-default">
